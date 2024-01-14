@@ -1,4 +1,5 @@
-# ai-project-pneumonia-detetection
+# AI PROJECT PNEUMONIA DETECTION
+
 Artificial Intelligence project on: Pneumonia detection in chest X-ray images using an e ensemble of deep learning models
 
 1. The use of deep learning techniques in medical imaging can enhance the accuracy and efficiency of pneumonia diagnosis, revolutionizing the field.
